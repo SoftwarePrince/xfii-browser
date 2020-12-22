@@ -35,7 +35,7 @@ INSUFFICIENT INFO WILL GET THE ISSUE CLOSED. IT WILL ONLY BE REOPENED AFTER SUFF
 
 
 ## Desktop Brave version:
-<!--For installed build, please copy Brave, Revision and OS from brave://version and paste here. If building from source please mention it along with brave://version details-->
+<!--For installed build, please copy Brave, Revision and OS from xfii://version and paste here. If building from source please mention it along with xfii://version details-->
 
 
 ## Android Device details:

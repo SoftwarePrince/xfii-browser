@@ -82,7 +82,7 @@
  - Implemented fingerprint farbling for Plugins. ([#9435](https://github.com/brave/brave-browser/issues/9435))
  - Implemented new wallet API for Brave Rewards. ([#8428](https://github.com/brave/brave-browser/issues/8428))
  - [Security] Reduce logging as reported on HackerOne by hihouhou. ([#11456](https://github.com/brave/brave-browser/issues/11456))
- - Disabled ability to retrieve rewards logs via brave://rewards-internals and removed existing logs. ([#11260](https://github.com/brave/brave-browser/issues/11260))
+ - Disabled ability to retrieve rewards logs via xfii://rewards-internals and removed existing logs. ([#11260](https://github.com/brave/brave-browser/issues/11260))
  - Fixed issue where ad conversions would fail when a site uses pushState. ([#11012](https://github.com/brave/brave-browser/issues/11012))
  - Fixed not being able to open downloaded PDF and APK files. ([#11420](https://github.com/brave/brave-browser/issues/11420)
  - Fixed not being able to send links from Android to Desktop when sync is enabled. ([#11077](https://github.com/brave/brave-browser/issues/11077)
@@ -94,7 +94,7 @@
  - Added support for state level ads delivery. ([#9200](https://github.com/brave/brave-browser/issues/9200))
  - Added the date of installation to the stats ping. ([#10061](https://github.com/brave/brave-browser/issues/10061))
  - Added farbling for WebGL API when "Fingerprinting blocking" is set to "strict". ([#10214](https://github.com/brave/brave-browser/issues/10214)) 
- - Enabled the "prefetch-privacy-changes" flag by default under brave://flags. ([#8319](https://github.com/brave/brave-browser/issues/8319))
+ - Enabled the "prefetch-privacy-changes" flag by default under xfii://flags. ([#8319](https://github.com/brave/brave-browser/issues/8319))
  - Updated referrer policy to improve privacy and prevent web compatibility issues. ([#8696](https://github.com/brave/brave-browser/issues/8696))
  - Updated canvas maximum farbling to match balanced farbling. ([#11067](https://github.com/brave/brave-browser/issues/11067))
  - Updated pre-populated search engine list. ([#11089](https://github.com/brave/brave-browser/issues/11089))
@@ -118,7 +118,7 @@
  - Implemented new Brave Shields design to match desktop. ([#9888](https://github.com/brave/brave-browser/issues/9888))
  - Implemented "Rate Brave" to capture feedback from within the app. ([#8243](https://github.com/brave/brave-browser/issues/8243))
  - Implemented Sync v1 deprecation infobar for devices that have Sync enabled. ([#10416](https://github.com/brave/brave-browser/issues/10416))
- - Added ability to view and download server error logs for Brave Rewards under "brave://rewards-internals" to improve rewards debugging. ([#10712](https://github.com/brave/brave-browser/issues/10712))
+ - Added ability to view and download server error logs for Brave Rewards under "xfii://rewards-internals" to improve rewards debugging. ([#10712](https://github.com/brave/brave-browser/issues/10712))
  - Fixed shields not working on custom tab when app is removed from memory. ([#10612](https://github.com/brave/brave-browser/issues/10612))
  - Updated Brave Rewards to display BAT values to three decimal places. ([#10028](https://github.com/brave/brave-browser/issues/10028))
  - Upgraded to Chromium 84.0.4147.105. ([#10732](https://github.com/brave/brave-browser/issues/10732))
@@ -146,7 +146,7 @@
 
 ## [1.9.80](https://github.com/brave/brave-browser/releases/tag/v1.9.80)
 
- - Fixed default setting for "Show Brave suggested sites in autocomplete suggestions" to be off under brave://settings/appearance. ([#10131](https://github.com/brave/brave-browser/issues/10131))
+ - Fixed default setting for "Show Brave suggested sites in autocomplete suggestions" to be off under xfii://settings/appearance. ([#10131](https://github.com/brave/brave-browser/issues/10131))
 
 ## [1.9.79](https://github.com/brave/brave-browser/releases/tag/v1.9.79)
 

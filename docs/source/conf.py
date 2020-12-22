@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-author = 'Brave Software'
-project = 'Brave browser'
-copyright = '2020, Brave Software'
+author = 'XFII Software'
+project = 'XFII browser'
+copyright = '2020, XFII Software'
 
 # The short X.Y version
 version = ''
@@ -81,7 +81,7 @@ html_theme = 'alabaster'
 # documentation.
 #
 html_theme_options = {
-    'description': '<a href="https://www.brave.com">brave.com</a><meta http-equiv="refresh" content="2; URL=https://brave.com/linux">',
+    'description': '<a href="https://www.xfiitech.com">xfiitech.com</a><meta http-equiv="refresh" content="2; URL=https://xfiitech.com/linux">',
     'logo': 'brave-release.svg',
     'head_font_family': 'Muli, Proxima Nova, Avenir',
     'caption_font_size': '14px',
@@ -142,8 +142,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'BraveBrowser.tex', 'Brave Browser Documentation',
-     'Brave Software', 'manual'),
+    (master_doc, 'BraveBrowser.tex', 'XFII Browser Documentation',
+     'XFII Software', 'manual'),
 ]
 
 
@@ -152,7 +152,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'bravebrowser', 'Brave Browser Documentation',
+    (master_doc, 'bravebrowser', 'XFII Browser Documentation',
      [author], 1)
 ]
 
@@ -163,7 +163,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'BraveBrowser', 'Brave Browser Documentation',
+    (master_doc, 'BraveBrowser', 'XFII Browser Documentation',
      author, 'BraveBrowser', 'One line description of project.',
      'Miscellaneous'),
 ]

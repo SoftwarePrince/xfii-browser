@@ -25,8 +25,8 @@ INSUFFICIENT INFO WILL GET THE ISSUE CLOSED. IT WILL ONLY BE REOPENED AFTER SUFF
 <!--[Easily reproduced/Intermittent issue/No steps to reproduce]-->
 
 
-## Brave version (brave://version info)
-<!--For installed build, please copy Brave, Revision and OS from brave://version and paste here. If building from source please mention it along with brave://version details-->
+## Brave version (xfii://version info)
+<!--For installed build, please copy Brave, Revision and OS from xfii://version and paste here. If building from source please mention it along with xfii://version details-->
 
 
 ## Version/Channel Information:
