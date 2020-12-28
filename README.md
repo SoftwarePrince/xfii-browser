@@ -161,3 +161,6 @@ xfii-browser> npm run apply_patches
 # Enabling third-party APIs:
 
 1. **Google Safe Browsing**: Get an API key with SafeBrowsing API enabled from https://console.developers.google.com/. Update the `GOOGLE_API_KEY` environment variable with your key as per https://www.chromium.org/developers/how-tos/api-keys to enable Google SafeBrowsing.
+
+
+this browser was made by [Software Prince Company](https://SoftwarePrince.com)
